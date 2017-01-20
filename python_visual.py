@@ -20,7 +20,7 @@ def simple_plot():
 
     # 生成画布
     plt.figure(figsize=(8, 6), dpi=80)
-    plt.title("plot title")
+    plt.title("sin and cos")
     plt.grid(True)
 
     # 设置X轴
